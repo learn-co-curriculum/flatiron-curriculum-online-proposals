@@ -20,6 +20,7 @@ This plan is subject to change.
 ## Slated Releases
 
 |Release Name|Description|Issues Included|Approximate Release|
+|-|-|-|-|
 |v7| HTML / CSS: Remove video-only lessons;  General rewrite; Provide more visual aids| N/A: Pre-dates this process|Before end-Septeber 2018|
 |v8| Revisit Procedural Ruby; Integrate structure from in-person Rails flow |#1|Late-October / Early-November 2018|
 |v9| Updated JavaScript section |...|Late-October / End 2018|
