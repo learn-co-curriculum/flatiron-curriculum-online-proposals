@@ -21,6 +21,11 @@ This plan is subject to change.
 
 |Release Name|Description|Issues Included|Approximate Release|
 |-|-|-|-|
-|v7| HTML / CSS: Remove video-only lessons;  General rewrite; Provide more visual aids| Historical issues, [#2](https://github.com/learn-co-curriculum/flatiron-curriculum-online-proposals/issues/2)|Before end-Septeber 2018|
+|v7| HTML / CSS: Remove video-only lessons;  General rewrite; Provide more visual aids| Historical issues, [#2][2], [#3][3]|Before end-Septeber 2018|
 |v8| Revisit Procedural Ruby; Integrate structure from in-person Rails flow |[#1](https://github.com/learn-co-curriculum/flatiron-curriculum-online-proposals/issues/`)|Late-October / Early-November 2018|
 |v9| Updated JavaScript section |...|Late-October / End 2018|
+
+
+
+[2]: https://github.com/learn-co-curriculum/flatiron-curriculum-online-proposals/issues/2
+[3]: https://github.com/learn-co-curriculum/flatiron-curriculum-online-proposals/issues/3
